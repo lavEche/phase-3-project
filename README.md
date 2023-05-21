@@ -14,7 +14,7 @@ This project aims to:
     - Investigate labeled data on 3333 customers who have held accounts with the company for less than 243 days.
 
     
-### Data:¶
+### Data:
 This project utilises data from the https://www.kaggle.com/becksddf/churn-in-telecoms-dataset dataset from Kaggle.
 
 The target variable in this dataset that we aimed to predict was identified as the churn column.
