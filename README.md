@@ -73,19 +73,26 @@ This algorithm will help to overcome the overfitting problem posed by random ove
 
 ![Screenshot (341)](https://github.com/lavEche/project-phase-1/assets/124572155/fdf6a534-7a27-4377-affc-d2d67433c6c8)
 
+
 This project tests a variety of classification models including:
 
     - Decisioin Tree Classifier
   
   ![Screenshot (348)](https://github.com/lavEche/project-phase-1/assets/124572155/34463c14-163c-49ea-aa67-294f4c230fb6)
 
-    - Logistic Regression Classifier
+  
+  
+  - Logistic Regression Classifier
     
     ![Screenshot (346)](https://github.com/lavEche/project-phase-1/assets/124572155/1c24f58e-e17f-4cc2-b4fa-692a70883efb)
 
-    - Random Forest Classifer
+  
+  
+  - Random Forest Classifer
   
   ![Screenshot (347)](https://github.com/lavEche/project-phase-1/assets/124572155/a41c25ab-34e2-48bc-9069-6e78ae95cf46)
+
+
 
 1 evaluated the models based on the Roc curve.
 
